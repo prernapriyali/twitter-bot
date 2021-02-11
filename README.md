@@ -28,7 +28,7 @@ This bot has two main functionalities: `AUTO_TWEET` and `TWEET_NOW`
 
 To get a local copy up and running follow these simple example steps in your terminal.
 
-- `git clone `
+- `git clone `https://github.com/prernapriyali/twitter-bot.git'
 - `cd Twitter_Bot`
 - `ruby bin/main.rb`
 
@@ -44,7 +44,10 @@ To test you have to install the RSpec gem and run this command from the root fol
 - `rspec`
 
 ## Author
+👤 **Prerna Priyali**
 
+- Github: [@prernapriyali](https://github.com/prernapriyali)
+- Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
 
 
 ## 🤝 Contributing

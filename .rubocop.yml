@@ -22,7 +22,7 @@ Style/Documentation:
   Enabled: false
 Style/ClassAndModuleChildren: false
   Enabled: false
-Style/EachForSimpleLoop:
+Style/EachForSimpleLoop: false
   Enabled: false
 Style/AndOr:
   Enabled: false
