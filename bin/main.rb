@@ -147,5 +147,4 @@ sleep(1)
 print "\n"
 thank_you
 2.times { print "\n" }
-
 # rubocop:enable Metrics/BlockLength
